@@ -12,7 +12,9 @@ do Curso Versionamento de Código Git e GitHub da
 ## 💻 Resumo das Aulas
 | Aulas | Resumos |
 |-------|---------|
-| Gravando Alterações no Repositório Local | [Resumos]()|
+| Gravando Alterações no Repositório Local | [Resumos]()
+|Aula 01| Git add .|
+|Aula 02| Git Commit|
 
 ```
 git init
@@ -20,3 +22,4 @@ git init
 
 ## 🔍 Referências
 - [DIO | Codifique o seu futuro](https://www.dio.me/)
+- [DIO | Versionamento de codigo](https://web.dio.me/track/randstad-analise-de-dados/course/versionamento-de-codigo-com-git-e-github/learning/dd17c56e-2327-493c-942a-358a49a26549?autoplay=1&back=%2Ftrack%2Frandstad-analise-de-dados)
